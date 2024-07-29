@@ -157,4 +157,5 @@ body {
     font-weight: bold;
     background-color: var(--primary-color) !important;
     color: white !important;
+    flex-wrap: nowrap;
 }
