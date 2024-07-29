@@ -157,7 +157,4 @@ body {
     font-weight: bold;
     background-color: var(--primary-color) !important;
     color: white !important;
-    white-space: nowrap;
-    text-overflow: hidden;
-    overflow: hidden;
 }
