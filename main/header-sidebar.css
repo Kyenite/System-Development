@@ -158,4 +158,5 @@ body {
     background-color: var(--primary-color) !important;
     color: white !important;
     text-overflow: ellipsis !important;
+    overflow: hidden;
 }
